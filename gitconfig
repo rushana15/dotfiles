@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = volen21@yahoo.com
+	name = rushanatownend
